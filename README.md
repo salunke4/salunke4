@@ -10,7 +10,7 @@
 
 **University of Illinois Urbana-Champaign**  
 **Bachelor of Science in Computer Engineering**  
-*Graduation: May 2024*  
+*Graduation: 2024*  
 **Relevant Courses:** Distributed Systems, Operating Systems, Computer Networks, Database Systems, AI, Machine Learning, Systems Engineering, Computer Architecture, Algorithms, Data Structures, Object-Oriented Programming, Digital Systems Design
 
 ---
