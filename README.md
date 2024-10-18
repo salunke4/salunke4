@@ -1,42 +1,74 @@
-# 👋 Hi, I'm Prathamesh Salunke!
+# Prathamesh Salunke
 
-🚀 **Software Engineer | Computer Engineering Graduate** from the **University of Illinois Urbana-Champaign** (Dec 2024). Passionate about solving complex problems, building scalable systems, and crafting innovative solutions across backend, full-stack, and embedded systems development.
+**Software Engineer**  
+📧 [pmsalunke3@gmail.com](mailto:pmsalunke3@gmail.com)  
+[LinkedIn](http://linkedin.com/in/prathameshsalunke)
 
-### 🔧 Technical Skills
-- **Languages:** Python, C, C++, Java, Go, TypeScript, JavaScript, SQL, x86 Assembly, Verilog
-- **Tools & Frameworks:** AWS, Docker, React, PostgreSQL, MongoDB, Node.js, PyTorch, Jenkins, Git
-- **Concepts:** Backend, Full-Stack Development, Distributed Systems, Microservice Architecture, Networking (TCP/UDP), API Design, Embedded Systems, System Design
+---
 
-### 🏗️ Recent Work Experience
-- **Qualcomm** (May 2024 - Aug 2024)
-  - Developed scalable RESTful APIs using Python and Jenkins, boosting data throughput by 25%.
-  - Enhanced UI testing accuracy by 20% through advanced template matching algorithms for smartphone screens.
-  - Optimized workflows with a custom UI for smartphone automation, reducing test execution time by 25%.
+## 👨‍🎓 Education
 
-- **Autodesk** (May 2022 - Aug 2023)
-  - Developed RESTful APIs on AWS for real-time monitoring, reducing alert response time by 40%.
-  - Improved data synchronization efficiency by 50% using asynchronous streaming with `asyncio`.
-  - Achieved a 95% reduction in API call costs by optimizing AWS Lambda functions.
+**University of Illinois Urbana-Champaign**  
+**Bachelor of Science in Computer Engineering**  
+*Graduation: May 2024*  
+**Relevant Courses:** Distributed Systems, Operating Systems, Computer Networks, Database Systems, AI, Machine Learning, Systems Engineering, Computer Architecture, Algorithms, Data Structures, Object-Oriented Programming, Digital Systems Design
 
-### 💻 Projects
-- **Spotify Million Playlist Dataset Challenge**
-  - Built a music recommendation system using graph theory and algorithms like DFS, Dijkstra’s, and IDDFS, achieving 95% accuracy.
-  - Applied betweenness centrality for diverse song curation, increasing user satisfaction by 20%.
+---
 
-- **Linux Operating System**
-  - Engineered a single-core OS based on the Linux kernel, implementing multi-threading, synchronization, and file management features.
-  - Developed device drivers and a custom shell for system calls like `ls`, `cd`, and `cat`.
+## 💼 Experience
 
-- **System On Chip (SoC) Video Game**
-  - Developed a video game on an FPGA using SystemVerilog and C, including keyboard drivers and VGA output.
+### **Qualcomm**  
+*Software Engineer Intern — 5G Network Infrastructure Team*  
+*May 2024 - Aug 2024 | Boulder, CO*  
+- Developed scalable RESTful APIs using Python and Jenkins in a Dockerized environment, boosting 5G network platform throughput by **25%**.
+- Enhanced system performance by **20%** by creating image processing algorithms in C++ for robot cameras.
+- Engineered backend components for testing 5G network features using C++ and Jenkins, streamlining development workflows.
+- Designed a UI for device automation, reducing test execution time by **25%**.
 
-### 🌱 Currently Learning
-- Distributed systems and advanced backend architecture.
-- Exploring new ways to optimize system performance and scalability in embedded systems.
+### **Autodesk**  
+*Software Engineer Intern*  
+*May 2023 - Aug 2023 | San Francisco, CA*  
+- Developed scalable APIs for real-time data processing, improving system responsiveness by **40%**.
+- Implemented asynchronous workflows, increasing speed by **50%** for high-volume tasks.
+- Optimized AWS Lambda functions, reducing API call costs by **95%**.
+- Recognized as a top intern, presented project outcomes directly to the CEO.
 
-### 💼 Looking for Opportunities
-I'm currently exploring **Software Engineer (New Grad)** roles, especially in areas where I can leverage my skills in system design, backend development, and embedded systems.
+*May 2022 - Aug 2022 | San Francisco, CA*  
+- Automated data management tasks with Python and PostgreSQL, improving efficiency by **15%**.
+- Designed API endpoints, enhancing system performance by **30%**.
+- Developed over **100 unit tests** with pytest, reducing test execution time by **40%**.
 
-### 📫 Get in Touch
-- **Email:** pmsalunke3@gmail.com
-- **LinkedIn:** [Prathamesh Salunke](http://linkedin.com/in/prathameshsalunke)
+---
+
+## 📂 Projects
+
+### **Spotify Million Playlist Dataset Challenge**  
+- Built a music recommendation system using graph theory and search algorithms.
+- Applied DFS, Dijkstra's, and IDDFS to generate playlists with **95% accuracy**.
+- Improved user satisfaction by **20%** using betweenness centrality for diverse song curation.
+
+### **Linux Operating System**  
+- Engineered a single-core operating system based on Linux using C and x86 Assembly.
+- Implemented multi-threading, virtualization, and device drivers for peripherals.
+- Created a custom shell to execute user programs like `ls`, `cd`, and `cat`.
+
+### **System On Chip (SoC) Video Game**  
+- Developed a video game on an FPGA using SystemVerilog and C.
+- Designed a graphics rendering system with VGA output and keyboard input control via SPI.
+
+---
+
+## 🛠 Skills
+
+**Languages:**  
+C, C++, Python, Java, Go, x86 Assembly, Verilog, JavaScript, TypeScript, SQL  
+
+**Tools & Frameworks:**  
+Git, Docker, Linux, AWS, Node.js, React, MongoDB, PostgreSQL, PyTorch  
+
+**Concepts:**  
+Networking (TCP/IP), UNIX, System Design, Distributed Systems, Backend Development, API Design, Microservices, CI/CD, Embedded Systems  
+
+---
+
+Check out my [LinkedIn](http://linkedin.com/in/prathameshsalunke) to learn more or get in touch!
