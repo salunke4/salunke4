@@ -1,7 +1,6 @@
 # Prathamesh Salunke
 
-**Software Engineer**  
-📧 [pmsalunke3@gmail.com](mailto:pmsalunke3@gmail.com)  
+**Software Engineer**    
 [LinkedIn](http://linkedin.com/in/prathameshsalunke)
 
 ---
